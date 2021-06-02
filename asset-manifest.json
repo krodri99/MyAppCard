@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app-card/static/css/main.907f71c6.chunk.css",
+    "main.js": "/my-app-card/static/js/main.d01a3d8d.chunk.js",
+    "main.js.map": "/my-app-card/static/js/main.d01a3d8d.chunk.js.map",
+    "runtime-main.js": "/my-app-card/static/js/runtime-main.639a5e71.js",
+    "runtime-main.js.map": "/my-app-card/static/js/runtime-main.639a5e71.js.map",
+    "static/js/2.5bff3375.chunk.js": "/my-app-card/static/js/2.5bff3375.chunk.js",
+    "static/js/2.5bff3375.chunk.js.map": "/my-app-card/static/js/2.5bff3375.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/my-app-card/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/my-app-card/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/my-app-card/index.html",
+    "static/css/main.907f71c6.chunk.css.map": "/my-app-card/static/css/main.907f71c6.chunk.css.map",
+    "static/js/2.5bff3375.chunk.js.LICENSE.txt": "/my-app-card/static/js/2.5bff3375.chunk.js.LICENSE.txt",
+    "static/media/Like-Button.dec699ca.png": "/my-app-card/static/media/Like-Button.dec699ca.png",
+    "static/media/kats-avatar.9b51434f.jpg": "/my-app-card/static/media/kats-avatar.9b51434f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639a5e71.js",
+    "static/js/2.5bff3375.chunk.js",
+    "static/css/main.907f71c6.chunk.css",
+    "static/js/main.d01a3d8d.chunk.js"
+  ]
+}
